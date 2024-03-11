@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="Author">Christian Martin</string>
+    <string name="Title">Specialist Drone Pilot</string>
+    <string name='Direction'>Avenida de Bruselas, 31</string>
+    <string name="MoreDirection">28108 Alcobendas (Madrid)</string>
+    <string name="NIF">NIF : B86734522</string>
+    <string name="OficcePhone">+34 722 233 458</string>
+    <string name="PhoneNumber">+34 639 94 45 73</string>
+    <string name="Email">christian.martin@aerotools.es </string>
+</resources>

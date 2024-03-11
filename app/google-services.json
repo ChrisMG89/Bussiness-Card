@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952619058195",
+    "project_id": "atomcard-3317f",
+    "storage_bucket": "atomcard-3317f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952619058195:android:56b15037fd9acaf36debe6",
+        "android_client_info": {
+          "package_name": "com.example.businesscard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17RTL57JZqOyWNrVVBOCZXiQfz5ufdfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
